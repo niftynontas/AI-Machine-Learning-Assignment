@@ -85,7 +85,9 @@ This project shows that AI can contribute meaningfully to **education equity** b
 
 ## 🔗 Author
 👩🏽‍💻 Created by : Nontando Myoli 
-📚 For the PLP Academy – Week 2 Assignment  
+
+📚 For the PLP Academy – Week 2 Assignment 
+
 🌍 Theme: **Machine Learning Meets the UN SDGs**
 
 
