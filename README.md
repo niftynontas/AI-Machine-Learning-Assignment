@@ -71,24 +71,15 @@ The model explains 88% of the variation in math scores and predicts scores with 
 
 ---
 
-## 💡 Social & Ethical Reflection
-
-> "AI in education must empower, not label."
-
-- This model can support **early intervention** but must be used ethically.
-- It must **not be used to stereotype or punish** learners based on background.
-- Transparency, fairness, and **human oversight** are essential when deploying AI in schools.
-
----
-
 ## 💬 Conclusion
 This project shows that AI can contribute meaningfully to **education equity** by identifying students who may need academic support. It demonstrates how **data science aligns with global development goals** like SDG 4.
 
 ---
 
 ## 📂 Files Included
-- `student_performance_predictor.ipynb`: Core notebook with training, testing, and plots
-- `screenshots: Visualization outputs for results
+- assignment 2.ipynb`: Core notebook with training, testing, and plots
+- screenshots: Visualization outputs for results
+- csv file-'StudentsPerformance.csv'
 
 ---
 
